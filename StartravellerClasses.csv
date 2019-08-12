@@ -1,0 +1,37 @@
+Class,Type,Health,Attack,Defense,Initiative,Skills,Will,Ref,Fort
+Gunslinger,Combat,1,1,0,2,1,0,2,0
+Sharpshooter,Combat,0,2,0,0,2,2,0,0
+Wardog,Combat,3,1,1,0,0,0,0,2
+Swordfiend,Combat,1,1,1,0,1,0,2,0
+Martial Artist,Combat,2,1,1,0,0,1,2,1
+Champion,Combat,2,0.5,0.5,1,0,2,2,2
+Brute,Combat,3,2,0,0,0,0,0,2
+Shadow,Combat,0,1,0,1,2,1,2,0
+Dynamic Duo,Combat,0,1,1,0,2,1,1,0
+Fortress,Combat,5,0,0,0,0,0,0,2
+Bodyguard,Combat,2,0,2,2,0,1,1,1
+Calabrist,Skill,0.5,0.5,0.5,0,2,1,1,1
+Tinker,Skill,0,0,0,0,3,0,2,0
+Ship's Engineer,Skill,2,0,0,0,2,0,0,1
+Ranger,Skill,2,0,0,0,2,0,1,1
+Strategist,Skill,2,0,0,3,2,2,0,0
+Freerunner,Skill,0,0,2,1,2,0,2,0
+Pilot,Skill,1,0,0,2,2,0,2,0
+Infiltrator,Skill,0,0,0,0,3,1,1,1
+Con-Artist,Skill,0,0,1,1,2,1,1,0
+Liason,Skill,0,0,0,0,3,2,0,0
+Chronographer,Tech,0,0,0,3,2,2,2,0
+Medic,Tech,2,0,0,1,1,2,0,2
+Changeling,Tech,1,0.5,0.5,1,2,0.66,0.66,0.66
+Supercharger,Tech,2,1,0,0,1,2,0,2
+Conduit,Tech,1,0,0,0,2,3,0,0
+Imposter,Tech,0,0,0,0,3,2,0,2
+Jinx,Tech,0,0,1,1,2,1,1,1
+Apothecary,Tech,1,0,1,0,1,0,2,2
+Predator,Tech,3,1,1,1,0,0,1,1
+Macabre,Tech,0,2,0,1,1,0,3,0
+Crescent Staccato,Companion,0,0,0,0,1,0,0,0
+A390# Spider Drone,Companion,0,0,0,1,0,0,0,0
+Goliath Pangolin,Companion,0,0,0,0,0,0,0,0
+Heathoak Seed,Companion,0.5,0,0,0,2,0,0,2
+Swarm Master,Companion,0,0,0,1,1,2,0,2
